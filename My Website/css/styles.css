@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+html {
+    font-size: 1em;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    background-color: peachpuff;
+}
+.name {
+    padding: 5px 5px 5px 5px;
+    border: 10px solid #ffa949;
+    border-radius: 10px;
+    height: 350px;
+    background-image: radial-gradient(yellow, red)
+}
+.list {
+    padding: 5px;
+    border-radius: 10px;
+    background-image:radial-gradient(#FF1493, rgb(241, 8, 8)) ;
+}
+
+img {
+    height: 200px;
+}
+.work {
+    border-radius: 10px;
+    border: 10px solid orchid;
+    padding: 5px;
+    background-image:radial-gradient(#FF8C00,#FF1493);
+}
+.item {
+    border: 1px solid rgb(247, 4, 4);
+}
+.interests {
+    border-radius: 10px;
+    padding 5px;
+    background-image: radial-gradient(red, yellow);
+}
+footer {
+    width: 400px;border-radius: ;
+    padding: 4px;
+    border: 2px solid #ffa949;
+    margin: 30px auto 15px;
+    color: #294969;
+    font-size: 20px;
+    text-align: center;
+}
